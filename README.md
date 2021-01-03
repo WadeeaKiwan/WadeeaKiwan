@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <br />
 
 [linkedin]: https://www.linkedin.com/in/wadeeakiwan/
-[visualStudioCode]:
+<!-- [visualStudioCode]:
 [html]:
 [css]:
 [javaScript]:
@@ -70,4 +70,4 @@ Here are some ideas to get you started:
 [amazon]:
 [fireBase]:
 [heroku]:
-[netlify]:
+[netlify]: -->
