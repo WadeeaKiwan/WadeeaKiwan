@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[<img align="left" style="padding-bottom:20px;" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualStudioCode]
+[<img align="left" style="padding-bottom:20px" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualStudioCode]
 [<img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javaScript]
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][gitHub]
 [<img align="left" alt="BitBucket" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" />][bitBucket]
 [<img align="left" alt="BitBucket" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" />][gitLab]
-[<img align="left" alt="Amazon" width="30px" src="https://cloudastronautblog.files.wordpress.com/2017/10/aws_logo_smile_1200x630.png?w=2000&h=&crop=1" />][amazon]
+[<img align="left" alt="Amazon" width="30px" height="30px" src="https://cloudastronautblog.files.wordpress.com/2017/10/aws_logo_smile_1200x630.png?w=2000&h=&crop=1" />][amazon]
 [<img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][fireBase]
 [<img align="left" alt="Heroku" width="30px" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38840/preview.svg" />][heroku]
 [<img align="left" alt="Netlify" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" />][netlify]
