@@ -52,22 +52,22 @@ Here are some ideas to get you started:
 <br />
 
 [linkedin]: https://www.linkedin.com/in/wadeeakiwan/
-<!-- [visualStudioCode]:
-[html]:
-[css]:
-[javaScript]:
-[typeScript]:
-[npm]:
-[nodeJs]:
-[react]:
-[vue]:
-[mySql]:
-[mongoDB]:
-[git]:
-[gitHub]:
-[bitBucket]:
-[gitLab]:
-[amazon]:
-[fireBase]:
-[heroku]:
-[netlify]: -->
+[visualStudioCode]: https://code.visualstudio.com/
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[javaScript]: https://www.javascript.com/
+[typeScript]: https://www.typescriptlang.org/
+[npm]: https://www.npmjs.com/
+[nodeJs]: https://nodejs.org/en/
+[react]: https://reactjs.org/
+[vue]: https://vuejs.org/
+[mySql]: https://www.mysql.com/
+[mongoDB]: https://www.mongodb.com/
+[git]: https://git-scm.com/
+[gitHub]: https://github.com/
+[bitBucket]: https://bitbucket.org/
+[gitLab]: https://about.gitlab.com/
+[amazon]: https://aws.amazon.com/
+[fireBase]: https://firebase.google.com/
+[heroku]: https://www.heroku.com/
+[netlify]: https://www.netlify.com/
