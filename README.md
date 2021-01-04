@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="NPM" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />][npm]
 [<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodeJs]
 [<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Next.js" width="40px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" />][next]
+[<img align="left" alt="Next.js" width="40px" src="https://camo.githubusercontent.com/ca77ac5dce4c60a9ec14ce2a7676208ebe1511057a9c912bdf2ab20214ac6150/68747470733a2f2f75706c6f61642d69636f6e2e73332e75732d656173742d322e616d617a6f6e6177732e636f6d2f75706c6f6164732f69636f6e732f706e672f393131343835363736313535313934313731312d3531322e706e67" />][next]
 [<img align="left" alt="Vue" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vue]
 [<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mySql]
 [<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongoDB]
