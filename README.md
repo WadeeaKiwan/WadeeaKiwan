@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[<img align="left" style="padding-bottom:20px" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualStudioCode]
+[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualStudioCode]
 [<img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javaScript]
@@ -37,8 +37,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="NPM" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />][npm]
 [<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodeJs]
 [<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+[<img align="left" alt="Redux" width="40px" src="https://i1.wp.com/everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png?resize=2048%2C1851&ssl=1" />][redux]
 [<img align="left" alt="Next.js" width="40px" src="https://camo.githubusercontent.com/ca77ac5dce4c60a9ec14ce2a7676208ebe1511057a9c912bdf2ab20214ac6150/68747470733a2f2f75706c6f61642d69636f6e2e73332e75732d656173742d322e616d617a6f6e6177732e636f6d2f75706c6f6164732f69636f6e732f706e672f393131343835363736313535313934313731312d3531322e706e67" />][next]
 [<img align="left" alt="Vue" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vue]
+[<img align="left" alt="Vuex" width="40px" src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" />][vuex]
 [<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mySql]
 [<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongoDB]
 [<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
@@ -61,8 +63,10 @@ Here are some ideas to get you started:
 [npm]: https://www.npmjs.com/
 [nodeJs]: https://nodejs.org/en/
 [react]: https://reactjs.org/
+[redux]: https://redux.js.org/
 [next]: https://nextjs.org/
 [vue]: https://vuejs.org/
+[vuex]: https://vuex.vuejs.org/
 [mySql]: https://www.mysql.com/
 [mongoDB]: https://www.mongodb.com/
 [git]: https://git-scm.com/
