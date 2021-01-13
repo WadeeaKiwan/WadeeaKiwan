@@ -54,6 +54,8 @@ Here are some ideas to get you started:
 
 <br />
 
+[![Wadeea's github stats](https://github-readme-stats.vercel.app/api?username=WadeeaKiwan)](https://github.com/anuraghazra/github-readme-stats)
+
 [linkedin]: https://www.linkedin.com/in/wadeeakiwan/
 [visualStudioCode]: https://code.visualstudio.com/
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
