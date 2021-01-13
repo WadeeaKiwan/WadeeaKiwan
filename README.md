@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="Wadeea Kiwan | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+<br>
 
 ### Languages and Tools:
 
@@ -52,10 +52,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="Heroku" width="40px" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38840/preview.svg" />][heroku]
 [<img align="left" alt="Netlify" width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" />][netlify]
 
-<br />
-<br />
+<br><br>
 
-[![Wadeea's github stats](https://github-readme-stats.vercel.app/api?username=WadeeaKiwan)](https://github.com/anuraghazra/github-readme-stats)
+[![Wadeea's github stats](https://github-readme-stats.vercel.app/api?username=WadeeaKiwan)](https://github-readme-stats.vercel.app/api?username=WadeeaKiwan)
 
 [linkedin]: https://www.linkedin.com/in/wadeeakiwan/
 [visualStudioCode]: https://code.visualstudio.com/
