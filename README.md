@@ -52,11 +52,16 @@ Here are some ideas to get you started:
 [<img align="left" alt="Heroku" width="50px" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38840/preview.svg" />][heroku]
 [<img align="left" alt="Netlify" width="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" />][netlify]
 
-<a href="https://github-readme-stats.vercel.app/api?username=WadeeaKiwan&count_private=true&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WadeeaKiwan&count_private=true&show_icons=true" />
+<br />
+
+### Stats & Most Used Languages:
+
+<a href="https://github-readme-stats.vercel.app/api?username=WadeeaKiwan&count_private=true&show_icons=true&hide=issues,contribs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WadeeaKiwan&count_private=true&show_icons=true&hide=issues,contribs" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=WadeeaKiwan&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WadeeaKiwan&layout=compact" />
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=WadeeaKiwan&layout=compact&hide=PHP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WadeeaKiwan&layout=compact&hide=PHP" />
 </a>
 
 <br />
