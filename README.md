@@ -64,6 +64,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<br />
+<br />
+
 [linkedin]: https://www.linkedin.com/in/wadeeakiwan/
 [visualStudioCode]: https://code.visualstudio.com/
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
