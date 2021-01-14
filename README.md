@@ -53,6 +53,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Heroku" width="50px" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38840/preview.svg" />
   <img align="left" alt="Netlify" width="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" />
   <br />
+  <br />
+  <br />
 </p>
 
 <br />
