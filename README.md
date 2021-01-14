@@ -52,14 +52,12 @@ Here are some ideas to get you started:
 [<img align="left" alt="Heroku" width="50px" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38840/preview.svg" />][heroku]
 [<img align="left" alt="Netlify" width="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" />][netlify]
 
-<p>
-  <a href="https://github-readme-stats.vercel.app/api?username=WadeeaKiwan&count_private=true&show_icons=true">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=WadeeaKiwan&count_private=true&show_icons=true" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=WadeeaKiwan&layout=compact">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WadeeaKiwan&layout=compact" />
-  </a>
-</p>
+<a href="https://github-readme-stats.vercel.app/api?username=WadeeaKiwan&count_private=true&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WadeeaKiwan&count_private=true&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=WadeeaKiwan&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WadeeaKiwan&layout=compact" />
+</a>
 
 <br />
 <br />
