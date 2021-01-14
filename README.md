@@ -60,8 +60,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WadeeaKiwan&count_private=true&show_icons=true&hide=issues,contribs" />
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=WadeeaKiwan&layout=compact&hide=PHP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WadeeaKiwan&layout=compact&hide=PHP" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=WadeeaKiwan&layout=compact&exclude_repo=basicpizza">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WadeeaKiwan&layout=compact&exclude_repo=basicpizza" />
 </a>
 
 <br />
