@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 [<img align="center" alt="Heroku" width="50px" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38840/preview.svg" />][heroku]
 [<img align="center" alt="Netlify" height="50px" width="50px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" />][netlify]
 [<img align="center" alt="Stripe" height="50px" width="100px" src="https://woocommerce.com/wp-content/uploads/2011/12/stripe-logo-blue.png" />][stripe]
-[<img align="center" alt="Cloudinary" height="50px" width="50px" src="https://woocommerce.com/wp-content/uploads/2011/12/stripe-logo-blue.png" />][cloudinary]
+[<img align="center" alt="Cloudinary" height="50px" width="50px" src="https://s3.amazonaws.com/awsmp-logos/cloudinary.png" />][cloudinary]
 
 ### Stats & Most Used Languages:
 
