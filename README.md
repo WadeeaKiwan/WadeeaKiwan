@@ -18,7 +18,13 @@ Here are some ideas to get you started:
 ## I'm a husband, father, developer, helpdesk engineer, translator and teacher!
 - 🔭 I’m currently working on Animating SVG with CSS 
 - 🌱 I’m currently updating my knowledge with React Hooks
-- 🥅 2021 Goals: Contribute to Open Source projects, learn Angular, mobile frameworks and Python
+- 🥅 2021 Goals: 
+  - Contribute to Open Source projects
+  - learn Angular
+  - mobile frameworks 
+  - Python
+  - Styled Components
+  - Gatspy & GraphQL
 - ⚡ Fun fact: I love to repair electronic devices and play football
 
 ### Connect with me:
