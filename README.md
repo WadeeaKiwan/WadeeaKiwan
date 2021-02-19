@@ -65,8 +65,6 @@ Here are some ideas to get you started:
 
 ### Stats & Most Used Languages:
 
-<br />
-
 <a href="https://komarev.com/ghpvc/?username=WadeeaKiwan">
   <img align="left" alt="Github Profile Views Counter" src="https://komarev.com/ghpvc/?username=WadeeaKiwan">
 </a>
