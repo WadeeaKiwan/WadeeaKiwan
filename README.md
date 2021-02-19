@@ -65,18 +65,20 @@ Here are some ideas to get you started:
 
 ### Stats & Most Used Languages:
 
+<br />
+
+<a href="https://komarev.com/ghpvc/?username=WadeeaKiwan">
+  <img align="left" alt="Github Profile Views Counter" src="https://komarev.com/ghpvc/?username=WadeeaKiwan">
+</a>
+
+<br />
+
 <a href="https://github-readme-stats.vercel.app/api?username=WadeeaKiwan&count_private=true&show_icons=true&hide=issues,contribs">
   <img align="center" alt="Wadeea's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WadeeaKiwan&count_private=true&show_icons=true&hide=issues,contribs" />
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=WadeeaKiwan&layout=compact&exclude_repo=basicpizza">
   <img align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WadeeaKiwan&layout=compact&exclude_repo=basicpizza" />
-</a>
-
-<br />
-
-<a href="https://komarev.com/ghpvc/?username=WadeeaKiwan">
-  <img align="left" alt="Github Profile Views Counter" src="https://komarev.com/ghpvc/?username=WadeeaKiwan">
 </a>
 
 <br />
