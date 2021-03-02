@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## I'm a husband, father, developer, helpdesk engineer, translator and teacher!
 
-- 🔭 I’m currently working on Animating SVG with CSS
-- 🌱 I’m currently updating my knowledge with React Hooks
+- 🔭 I’m currently working on Animating SVG with CSS ✅
+- 🌱 I’m currently updating my knowledge with React Hooks ✅
 - 🥅 2021 Goals:
   - Contribute to Open Source projects
   - learn Angular
