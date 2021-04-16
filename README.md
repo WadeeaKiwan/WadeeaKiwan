@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <br />
 
 <a href="https://github-readme-stats.vercel.app/api?username=WadeeaKiwan&count_private=true&show_icons=true&hide=issues,contribs">
-  <img align="center" alt="Wadeea's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WadeeaKiwan&count_private=true&show_icons=true" />
+  <img align="center" alt="Wadeea's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WadeeaKiwan&count_private=true&show_icons=true&hide=contribs" />
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=WadeeaKiwan&layout=compact&exclude_repo=basicpizza">
