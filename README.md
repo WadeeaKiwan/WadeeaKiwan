@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently updating my knowledge with React Hooks ✅
 - 🥅 2021 Goals:
   - Contribute to Open Source projects
-  - learn Angular
+  - learn Angular ✅
   - mobile frameworks
   - Python
   - Styled Components
