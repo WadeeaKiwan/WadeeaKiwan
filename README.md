@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   - learn Angular ✅
   - mobile frameworks
   - Python
-  - Styled Components
+  - Styled Components ✅
   - Gatspy & GraphQL
 - ⚡ Fun fact: I love to repair electronic devices and play football
 
