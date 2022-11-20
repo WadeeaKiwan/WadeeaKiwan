@@ -17,14 +17,12 @@ Here are some ideas to get you started:
 
 ## I'm a husband, father, developer, helpdesk engineer, translator and teacher!
 
-- 🔭 I’m currently working on Animating SVG with CSS ✅
-- 🌱 I’m currently updating my knowledge with React Hooks ✅
-- 🥅 2021 Goals:
+- 🔭 I’m currently working on the next level of React ✅
+- 🌱 I’m currently learning NGINX
+- 🥅 2023 Goals:
   - Contribute to Open Source projects
-  - learn Angular ✅
   - mobile frameworks
   - Python
-  - Styled Components ✅
   - Gatspy & GraphQL
 - ⚡ Fun fact: I love to repair electronic devices and play football
 
@@ -48,7 +46,7 @@ Here are some ideas to get you started:
 [<img align="center" alt="Next.js" height="50px" width="50px" src="https://camo.githubusercontent.com/ca77ac5dce4c60a9ec14ce2a7676208ebe1511057a9c912bdf2ab20214ac6150/68747470733a2f2f75706c6f61642d69636f6e2e73332e75732d656173742d322e616d617a6f6e6177732e636f6d2f75706c6f6164732f69636f6e732f706e672f393131343835363736313535313934313731312d3531322e706e67" />][next]
 [<img align="center" alt="Vue" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vue]
 [<img align="center" alt="Vuex" height="50px" width="50px" src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" />][vuex]
-[<img align="center" alt="Lightning" height="50px" width="50px" src="https://rdkcentral.github.io/Lightning/img/LngDocs_WebGl.png" />][lightning]
+[<img align="center" alt="Lightning" height="50px" width="50px" src="https://lightningjs.io/assets/logo.png" />][lightning]
 [<img align="center" alt="MySQL" height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img align="center" alt="MongoDB" height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
 [<img align="center" alt="Git" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
