@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 [<img align="center" alt="Node.js" height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="center" alt="React" height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="center" alt="Redux" width="50px" height="50px" src="https://i1.wp.com/everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png?resize=2048%2C1851&ssl=1" />][redux]
-[<img align="center" alt="Next.js" height="50px" width="50px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/nextjs-dqhvgu9iwvacgwnwl8bs25.png/nextjs-ghnqttyc6ffbnqnn8xlrpj.png" />][next]
+[<img align="center" alt="Next.js" height="50px" width="50px" src="https://www.svgrepo.com/show/354112/nextjs.svg" />][next]
 [<img align="center" alt="Vue" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vue]
 [<img align="center" alt="Vuex" height="50px" width="50px" src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" />][vuex]
 [<img align="center" alt="Lightning" height="50px" width="50px" src="https://lightningjs.io/favicons/lng_grey.svg" />][lightning]
